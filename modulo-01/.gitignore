@@ -1,2 +1,8 @@
 MNIST
 faces_dataset
+processed.cleveland.data
+YearPredictionMSD.txt
+YearPredictionMSD.txt.zip
+covtype.data.gz
+winequality-red.csv
+winequality-white.csv
